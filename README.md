@@ -4,12 +4,6 @@ A modern iOS application built with **Clean Swift (VIP) Architecture** that show
 
 ## 🏗️ Architecture
 
-This project follows **Clean Swift (VIP) Architecture** with unidirectional data flow:
-
-```
-View → Interactor → Presenter → View
-```
-
 ### Architecture Components
 
 Each scene follows the Clean Swift pattern with these 6 core files:
