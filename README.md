@@ -80,36 +80,29 @@ Dog + Cat & I/
 │       ├── Dogs/Responses/
 │       └── Me/Responses/
 ├── Scenes/
-│   ├── Cats/
-│   │   ├── CatsViewController.swift
-│   │   ├── CatsInteractor.swift
-│   │   ├── CatsPresenter.swift
-│   │   ├── CatsRouter.swift
-│   │   ├── CatsWorker.swift
-│   │   ├── CatsModels.swift
-│   │   └── View/
-│   ├── Dogs/
-│   │   ├── DogsViewController.swift
-│   │   ├── DogsInteractor.swift
-│   │   ├── DogsPresenter.swift
-│   │   ├── DogsRouter.swift
-│   │   ├── DogsWorker.swift
-│   │   ├── DogsModels.swift
-│   │   └── View/
-│   └── Me/
-│       ├── MeViewController.swift
-│       ├── MeInteractor.swift
-│       ├── MePresenter.swift
-│       ├── MeRouter.swift
-│       ├── MeWorker.swift
-│       └── MeModels.swift
-└── Tests/
-    └── API/
-        ├── CatsWorkerTests.swift
-        ├── DogsWorkerTests.swift
-        ├── MeWorkerTests.swift
-        ├── NetworkModelTests.swift
-        └── IntegrationTests.swift
+    ├── Cats/
+    │   ├── CatsViewController.swift
+    │   ├── CatsInteractor.swift
+    │   ├── CatsPresenter.swift
+    │   ├── CatsRouter.swift
+    │   ├── CatsWorker.swift
+    │   ├── CatsModels.swift
+    │   └── View/
+    ├── Dogs/
+    │   ├── DogsViewController.swift
+    │   ├── DogsInteractor.swift
+    │   ├── DogsPresenter.swift
+    │   ├── DogsRouter.swift
+    │   ├── DogsWorker.swift
+    │   ├── DogsModels.swift
+    │   └── View/
+    └── Me/
+        ├── MeViewController.swift
+        ├── MeInteractor.swift
+        ├── MePresenter.swift
+        ├── MeRouter.swift
+        ├── MeWorker.swift
+        └── MeModels.swift
 ```
 
 ## 🚀 Getting Started
